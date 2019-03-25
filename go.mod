@@ -21,4 +21,5 @@ require (
 	github.com/markbates/grift v1.0.5
 	github.com/spf13/afero v1.2.1 // indirect
 	github.com/unrolled/secure v1.0.0
+	github.com/xemoe/fib v0.0.0-20190325081244-84421c6dce3f
 )

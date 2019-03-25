@@ -631,6 +631,10 @@ github.com/unrolled/secure v0.0.0-20181022170031-4b6b7cf51606/go.mod h1:mnPT77IA
 github.com/unrolled/secure v0.0.0-20190103195806-76e6d4e9b90c/go.mod h1:mnPT77IAdsi/kV7+Es7y+pXALeV3h7G6dQF6mNYjcLA=
 github.com/unrolled/secure v1.0.0 h1:2p4MlT30bNNjaFxA+gtDuLT/73fnXblTC+W/lCzOaZc=
 github.com/unrolled/secure v1.0.0/go.mod h1:mnPT77IAdsi/kV7+Es7y+pXALeV3h7G6dQF6mNYjcLA=
+github.com/xemoe/fib v0.0.0-20190325081244-84421c6dce3f h1:GgMkLm1uUaxD3mo5Z6gEnkL/fupPo5/o5qgmLXQJbZE=
+github.com/xemoe/fib v0.0.0-20190325081244-84421c6dce3f/go.mod h1:9a5Ce7aHcxG630x3BRk5fYWwMDqa8Is2aJB7CMbFINY=
+github.com/xemoe/go-fib v0.0.0-20190325055947-1a482deb91a3 h1:/ZxPwuFpLwbyLIYG0ONP44IQCGTnatGRnsvacvxty8k=
+github.com/xemoe/go-fib v0.0.0-20190325055947-1a482deb91a3/go.mod h1:L2lC2pJLYE54DSGf9ZmSUbwZjBzgikliRwkLib7lYBU=
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 go.opencensus.io v0.18.0/go.mod h1:vKdFvxhtzZ9onBp9VKHK8z/sRpBMnKAsufL7wlDrCOA=
 go4.org v0.0.0-20180809161055-417644f6feb5/go.mod h1:MkTOUMDaeVYJUOUsaDXIhWPZYa1yOyC1qaOBpL57BhE=
