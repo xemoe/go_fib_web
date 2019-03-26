@@ -61,6 +61,7 @@ func App() *buffalo.App {
 
 		app.GET("/", HomeHandler)
 		app.GET("/api/v1/fib/{num}", FibHandler)
+		app.POST("/api/v1/upload", UploadHandler)
 
 		app.ServeFiles("/", assetsBox) // serve files from the public directory
 	}
