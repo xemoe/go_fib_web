@@ -27,4 +27,5 @@ generated/
 .vendor/
 
 
+uploads/*
 actions/uploads/*
